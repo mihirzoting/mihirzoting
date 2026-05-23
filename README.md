@@ -38,11 +38,6 @@ Real-time network monitoring and ML-driven connection stability prediction for g
 
 `Python` `TensorFlow` `scikit-learn` `Node.js` `React` `Electron`
 
-— 93%+ F1-score on stability classifier  
-— Sub-100ms inference latency via REST API  
-— 35% throughput gain through pipeline optimisation  
-— 28% reduction in false-positive lag alerts
-
 </td>
 <td width="50%" valign="top">
 
@@ -51,11 +46,6 @@ Real-time network monitoring and ML-driven connection stability prediction for g
 Full-stack social impact platform connecting NGOs, donors, and restaurants to automate food donation workflows and reduce waste.
 
 `Java` `Firebase Realtime DB` `Firestore` `Firebase Auth`
-
-— 50+ concurrent users with live data sync  
-— 45% increase in community participation  
-— 8+ KPI analytics dashboard  
-— Real-time multi-role coordination
 
 </td>
 </tr>
