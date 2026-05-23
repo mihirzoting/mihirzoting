@@ -3,7 +3,7 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://linkedin.com/in/mihirzoting"><img src="assets/linkedin__2_.png" width="17" height="17" style="vertical-align:middle;"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/mihirzoting"><picture><img src="https://img.shields.io/badge/mihirzoting-e2e8f0?style=flat-square&labelColor=0d1117&color=0d1117"/></picture></a>&emsp;<a href="https://mihirzoting.netlify.app"><img src="assets/portfolio__1_.png" width="17" height="17" style="vertical-align:middle;"/></a>&nbsp;&nbsp;<a href="https://mihirzoting.netlify.app"><picture><img src="https://img.shields.io/badge/mihirzoting.netlify.app-e2e8f0?style=flat-square&labelColor=0d1117&color=0d1117"/></picture></a>&emsp;<a href="mailto:mihirzoting7@gmail.com"><img src="assets/email__3_.png" width="17" height="17" style="vertical-align:middle;"/></a>&nbsp;&nbsp;<a href="mailto:mihirzoting7@gmail.com"><picture><img src="https://img.shields.io/badge/mihirzoting7@gmail.com-e2e8f0?style=flat-square&labelColor=0d1117&color=0d1117"/></picture></a>
+<a href="https://linkedin.com/in/mihirzoting"><img src="assets/ln.png" width="17" height="17" style="vertical-align:middle;"/></a><a href="https://linkedin.com/in/mihirzoting"><picture><img src="https://img.shields.io/badge/mihirzoting-e2e8f0?style=flat-square&labelColor=0d1117&color=0d1117"/></picture></a>&emsp;<a href="https://mihirzoting.netlify.app"><img src="assets/pf.png" width="17" height="17" style="vertical-align:middle;"/></a><a href="https://mihirzoting.netlify.app"><picture><img src="https://img.shields.io/badge/mihirzoting.netlify.app-e2e8f0?style=flat-square&labelColor=0d1117&color=0d1117"/></picture></a>&emsp;<a href="mailto:mihirzoting7@gmail.com"><img src="assets/em.png" width="17" height="17" style="vertical-align:middle;"/></a><a href="mailto:mihirzoting7@gmail.com"><picture><img src="https://img.shields.io/badge/mihirzoting7@gmail.com-e2e8f0?style=flat-square&labelColor=0d1117&color=0d1117"/></picture></a>
 
 </div>
 
@@ -53,9 +53,6 @@
 <div align="center">
   <sub>Python Developer Intern · Codemate IT Solutions · 2023 &nbsp;·&nbsp; Freelance Video Editor · 10+ clients · 20%+ CTR lift</sub>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=mihirzoting&color=64748b&style=flat-square&label=profile+views"/>
+  
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=70&section=footer" width="100%"/>
-</div>
