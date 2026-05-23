@@ -1,15 +1,120 @@
-# 💫 About Me:
-## About Me<br><br>Aspiring Software and Machine Learning Developer with a strong focus on building efficient, scalable, and user-centric solutions.  <br>Alongside development, I work as a freelance video editor, combining technical and creative skills to deliver impactful results.<br><br>- Strong foundation in Data Structures and Algorithms  <br>- Interest in Machine Learning and real-world applications  <br>- Focus on writing clean, maintainable, and performance-oriented code  <br>- Experience in video editing with attention to detail and storytelling  <br><br>Actively seeking internship opportunities where I can contribute, learn, and grow as a developer.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0a0a0a&height=140&section=header&text=MIHIR%20ZOTING&fontSize=42&fontColor=e2e8f0&fontAlignY=55&desc=Machine%20Learning%20Engineer%20%20%C2%B7%20%20AI%20Developer%20%20%C2%B7%20%20Python%20Developer&descSize=13&descAlignY=78&descColor=64748b&animation=fadeIn" width="100%"/>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mihiiirr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirzoting) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihirzoting7@gmail.com) 
+<div align="center">
+  <a href="https://linkedin.com/in/mihirzoting"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=64748b"/></a>
+  &nbsp;
+  <a href="https://mihirzoting.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=vercel&logoColor=64748b"/></a>
+  &nbsp;
+  <a href="mailto:mihirzoting7@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=64748b"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mihirzoting&color=0a0a0a&style=flat-square&label=views"/>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mihirzoting&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mihirzoting&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mihirzoting&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+  B.Tech CS — AI/ML Specialization @ GHRCE Nagpur   ·   CGPA 8.18
+  Building end-to-end ML systems · Deploying models · Shipping products
+  Nagpur, Maharashtra, India
+```
+
+<br/>
+
+---
+
+### Selected Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**LagGuard** &nbsp;`2026 — present`
+
+Real-time network monitoring and ML-driven connection stability prediction for gaming environments. Architected the full system — from data pipeline to deployed classifier to desktop UI.
+
+`Python` `TensorFlow` `scikit-learn` `Node.js` `React` `Electron`
+
+— 93%+ F1-score on stability classifier  
+— Sub-100ms inference latency via REST API  
+— 35% throughput gain through pipeline optimisation  
+— 28% reduction in false-positive lag alerts
+
+</td>
+<td width="50%" valign="top">
+
+**Aaharsankalp** &nbsp;`Jan — Mar 2024`
+
+Full-stack social impact platform connecting NGOs, donors, and restaurants to automate food donation workflows and reduce waste.
+
+`Java` `Firebase Realtime DB` `Firestore` `Firebase Auth`
+
+— 50+ concurrent users with live data sync  
+— 45% increase in community participation  
+— 8+ KPI analytics dashboard  
+— Real-time multi-role coordination
+
+</td>
+</tr>
+</table>
+
+---
+
+### Stack
+
+```yaml
+ML / AI:        TensorFlow  Keras  scikit-learn  Pandas  NumPy  OpenCV  Matplotlib
+Languages:      Python  JavaScript  TypeScript  Java  C  C++
+Web / Backend:  React  Node.js  Electron  FastAPI  REST APIs
+Databases:      MySQL  Firebase  Firestore  Google Cloud
+Tools:          Git  VS Code  Jupyter  Postman  Android Studio
+Concepts:       OOP  DSA  ML Pipelines  Model Deployment  Agile  CI/CD
+```
+
+---
+
+### Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mihirzoting&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=64748b&icon_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirzoting&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=64748b&langs_count=6"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mihirzoting&theme=dark&hide_border=true&background=0d1117&ring=e2e8f0&fire=e2e8f0&currStreakLabel=e2e8f0&sideLabels=64748b&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0"/>
+</div>
+
+---
+
+### Experience
+
+**Python Developer Intern** &nbsp;·&nbsp; Codemate IT Solutions &nbsp;·&nbsp; `Jun – Jul 2023`  
+Built data pipelines, automated reporting workflows, and backend systems handling 500+ records. Reduced algorithmic runtime by ~30% through profiling and refactoring.
+
+---
+
+### Certifications
+
+`Python Programming` — Codemate IT Technologies &nbsp;&nbsp;
+`Python for ML` — Udemy & GeeksForGeeks &nbsp;&nbsp;
+`Google Cloud Fundamentals` — Google Cloud Skills Boost
+
+---
+
+### Also
+
+Outside of engineering — freelance video editor and motion designer.  
+Adobe Premiere Pro · After Effects · Color grading · Motion graphics  
+10+ clients &nbsp;·&nbsp; 20%+ average CTR improvement &nbsp;·&nbsp; 100% on-time delivery
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=80&section=footer" width="100%"/>
+</div>
