@@ -45,6 +45,7 @@ Real-time network monitoring and ML-driven connection stability prediction for g
 
 Full-stack social impact platform connecting NGOs, donors, and restaurants to automate food donation workflows and reduce waste.
 
+
 `Java` `Firebase Realtime DB` `Firestore` `Firebase Auth`
 
 </td>
