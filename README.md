@@ -29,6 +29,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**LagGuard**](https://github.com/mihirzoting/LagGuard) | Desktop app that monitors your network in real-time and uses an ML model to predict if your connection will drop — built for gamers. 93%+ F1-score, sub-100ms inference. | `Python` `TensorFlow` `scikit-learn` `React` `Electron` `Node.js` |
+| [**Project GWEN**](https://github.com/mihirzoting/project-gewn) *(in development)* | AI-native desktop copilot that lives as a floating overlay on your screen — conversational AI, voice interaction, desktop & browser automation, screen understanding, semantic memory, and autonomous multi-agent orchestration. | `Python` `FastAPI` `React` `Electron` `LangChain` `LangGraph` `ChromaDB` `PostgreSQL` `Redis` `Whisper` `Playwright` |
 | [**AAHAR APP**](https://github.com/mihirzoting/AAHAR-APP) | Mobile platform that connects food donors, restaurants, and NGOs to reduce food waste. Handles 50+ concurrent users with live Firebase sync. | `Java` `Firebase` `Firestore` `Firebase Auth` |
 | [**Smart Recommendation**](https://github.com/mihirzoting/AI-Recommendation-Logic) | Recommends books, movies & courses from your keywords using weighted similarity scoring — zero external libraries, pure Python logic. | `Python` |
 | [**Data Classification**](https://github.com/mihirzoting/Data-Classification-Using-AI) | End-to-end supervised ML pipeline on the Iris dataset — data loading, preprocessing, KNN training, scaling, and evaluation. 100% accuracy. | `Python` `scikit-learn` `Pandas` `NumPy` |
@@ -55,4 +56,3 @@
   <br/><br/>
   
 </div>
-
